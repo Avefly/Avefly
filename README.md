@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello, 👋
+
+Hi, My name is Tori and I am a senior from Florida International University doing my Bachelors in information systems.
+I have a huge interest in cybersecurity, as well as coding. I am currently studying python, and working on projects in the hopes of becomming a cybersecurity engineer.
+Currently I am a Global Security Intern, e-board member of WiCys and a codepath E3 scholar
 
 <!--
 **Avefly/Avefly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
